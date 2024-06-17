@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HirdyanshuSinghChanaria
+- 👋 Hi, I’m @Hirdyanshu
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on C
