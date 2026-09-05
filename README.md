@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HirdyanshuSinghChanaria&style=flat&color=blue&label=profile+views" alt="Profile views">
   <a href="https://leetcode.com/u/Hirdyanshu2004/"><img src="https://img.shields.io/badge/LeetCode-Hirdyanshu2004-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="https://www.codechef.com/users/noobhirdyanshu"><img src="https://img.shields.io/badge/CodeChef-noobhirdyanshu-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef"></a>
 </p>
@@ -68,5 +67,5 @@ Windows, `networksetup` on macOS).
 
 <p align="center">
   <a href="https://github.com/HirdyanshuSinghChanaria?tab=repositories">Repositories</a> ·
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/hirdyanshu-chanaria-27132524b/">LinkedIn</a>
 </p>
