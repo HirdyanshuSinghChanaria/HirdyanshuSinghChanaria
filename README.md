@@ -1,8 +1,7 @@
 <h1 align="center">Hirdyanshu</h1>
 
 <p align="center">
-  CSE graduate who likes the layer where software meets the operating system.<br>
-  Currently writing macOS utilities in Swift.
+  Hire Me!
 </p>
 
 <p align="center">
