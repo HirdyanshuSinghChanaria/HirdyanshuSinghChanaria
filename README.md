@@ -50,12 +50,6 @@ Windows, `networksetup` on macOS).
 ---
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HirdyanshuSinghChanaria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=HirdyanshuSinghChanaria&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="165">
-</picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HirdyanshuSinghChanaria&layout=compact&theme=tokyonight&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirdyanshuSinghChanaria&layout=compact&hide_border=true" alt="Top languages" height="165">
